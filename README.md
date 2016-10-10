@@ -1,3 +1,8 @@
+
+=======
+# taller_angular_tbd
+Taller Angular TBD 
+
 # tbd-angular-2-2016
 Plantilla de aplicación Angular JS para Taller de Base de Datos
 
@@ -16,5 +21,3 @@ En caso de utilizar auto-reload y preprocesamiento con sass
  * clonar repositorio
  * descargar librerías con `npm install`
  * ejecutar servidor con `npm run dev`
-
-
